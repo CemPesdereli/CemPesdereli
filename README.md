@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Spring Boot projects.
 
-- 🌱 I’m currently learning frontend with Next.js
+- 🌱 I’m currently learning microservices
 
 - 📫 How to reach me **cempesdereli@gmail.com**
 
