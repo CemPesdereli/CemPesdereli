@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cem </h1>
 <h3 align="center">A passionate backend developer from Turkey.</h3>
 
-- 🔭 I’m currently working on Spring Boot projects.
+- 🔭 I’m currently working on Spring Boot/Microservices projects.
 
-- 🌱 I’m currently learning microservices
+- 🌱 I’m currently learning frontend development.
 
 - 📫 How to reach me **cempesdereli@gmail.com**
 
